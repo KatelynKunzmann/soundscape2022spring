@@ -2,3 +2,4 @@
 .lfsinit filter=lfs diff=lfs merge=lfs -text
 beginnings.aup3 filter=lfs diff=lfs merge=lfs -text
 beginnings.mp3 filter=lfs diff=lfs merge=lfs -text
+soundscape.aup3[[:space:]]soundscape1.mp3 filter=lfs diff=lfs merge=lfs -text
