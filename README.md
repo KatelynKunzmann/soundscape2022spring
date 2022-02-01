@@ -1,4 +1,4 @@
-This is the future site of Katelyn Kunzmann's audio narrative.
+# A Trip With Phipps
 
 ## Prospective Assets
 
@@ -10,12 +10,19 @@ This is the future site of Katelyn Kunzmann's audio narrative.
 | Dialogue and Reflection | Recorded |
 | Birds singing | Recorded or Sourced online |
 | Accompanying music | Sourced online |
+| Water dripping | Recorded |
 
 
-## Current Assets 1/26/2022
+## Current Assets 1/29/2022
 
 | **Assets** | **Sources**             | **License** |
 |------------|-------------------------|-------------|
 |Man Talking from _Psychedelic Ghosts and Goblins_ by _The Abogix (J.K.) Starallüren Project By Reznamor_ | Sourced online: https://wordpress.org/openverse/audio/a86873b4-3ea5-4b1e-bd5f-e16c5986cd8c | CC Noncommercial+ 1.0 license |
-|Ambient Music from _Tipper - CoSM Ambient Set_ by _Tippermusic_ | Sourced online: https://soundcloud.com/tippermusic/tipper-cosm-ambient-set?si=59f28826828147afb1409403200990c8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing | License not listed |
-|Cap Falling by me | Recorded | N/A |
+|Cap Falling by me | Recorded at home | N/A |
+|Tropical fruit and Spice room "new world" | Recorded at Phipps Conservatory | N/A |
+|Start | Recorded at Phipps Conservatory | N/A |
+|Outside | Recorded at Phipps Conservatory | N/A |
+|Leaving | Recorded at Phipps Conservatory | N/A |
+| Desert Room | Recorded at Phipps Conservatory | N/A |
+| Come up | Recorded at Phipps Conservatory | N/A |
+| Back inside, fern room | Recorded at Phipps Conservatory | N/A |
