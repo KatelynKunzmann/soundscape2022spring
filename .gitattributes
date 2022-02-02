@@ -4,3 +4,4 @@ beginnings.aup3 filter=lfs diff=lfs merge=lfs -text
 beginnings.mp3 filter=lfs diff=lfs merge=lfs -text
 soundscape.aup3[[:space:]]soundscape1.mp3 filter=lfs diff=lfs merge=lfs -text
 *.aup3[[:space:]]soundscape.mp3[[:space:]]*.aup3-shm[[:space:]]*.aup3-wal filter=lfs diff=lfs merge=lfs -text
+soundscape.aup3[[:space:]]soundscape.mp3 filter=lfs diff=lfs merge=lfs -text

@@ -1,4 +1,6 @@
 # A Trip With Phipps
+## For the rough draft, mute the Psychedelic Ghosts and Goblins audio, that hasnt been placed correctly and edited yet
+
 
 ## Prospective Assets
 
@@ -18,11 +20,18 @@
 | **Assets** | **Sources**             | **License** |
 |------------|-------------------------|-------------|
 |Man Talking from _Psychedelic Ghosts and Goblins_ by _The Abogix (J.K.) Starallüren Project By Reznamor_ | Sourced online: https://wordpress.org/openverse/audio/a86873b4-3ea5-4b1e-bd5f-e16c5986cd8c | CC Noncommercial+ 1.0 license |
-|Cap Falling by me | Recorded at home | N/A |
 |Tropical fruit and Spice room "new world" | Recorded at Phipps Conservatory | N/A |
 |Start | Recorded at Phipps Conservatory | N/A |
 |Outside | Recorded at Phipps Conservatory | N/A |
 |Leaving | Recorded at Phipps Conservatory | N/A |
 | Desert Room | Recorded at Phipps Conservatory | N/A |
-| Come up | Recorded at Phipps Conservatory | N/A |
 | Back inside, fern room | Recorded at Phipps Conservatory | N/A |
+
+## To-Do List
+* Record entrance to Phipps (dialogue)
+* Truncate and edit "Start"
+* Truncate "Outside"
+* Truncate "Leaving"
+* Edit out any unintended sounds (wind, breathing, hitting mic)
+* Have more distorted sounds such as employees speaking, water, etc
+* Aspirational: Add ambient waves or some other accompanying music appropriately
